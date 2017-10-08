@@ -7,7 +7,7 @@ The code is only dependant on the MSP430.h file, and the device specific header 
 # Usage
 After placing all of the files in their correc workspaces, by calling the function:
 
-'Math(int1, int2, operator);'
+' Math(int1, int2, operator); '
 
 The function allows you to get any of four solutions from a set of integers based on addition, subtraction, multiplication, or division.
 
