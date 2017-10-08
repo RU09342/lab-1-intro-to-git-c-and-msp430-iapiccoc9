@@ -35,19 +35,19 @@ int2 will be subtracted from int1, and the difference will be returned.
 
 'Math(5,2,'-');' 
 
-##Multiplication
+## Multiplication
 
 int1 and int2 will be multiplied and the product will be returned.
 
 
-###Example of multiplication format
+### Example of multiplication format
 
 'Math(3,6,'*');'
 
-##Division
+## Division
 int1 will be divided by int2 and the quotient is returned.
 
-###Example of division format
+### Example of division format
 
 'Math(6,2,'/');'
 
